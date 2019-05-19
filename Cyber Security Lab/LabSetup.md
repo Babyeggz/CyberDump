@@ -43,4 +43,4 @@ Feel free to adjust this setting as you wish but I recommend setting it to “al
 ## Virtualization Lab Installation and Setup
 
 ## Frequently Asked Questions
-[This](/Cyber%20Security%20Lab/LabFAQ.md) will take you to my FAQ.md where you can find some of my reasoning behind what I did in this guide.
+[This](/Cyber%20Security%20Lab/LabFAQ.md) will take you to my LabFAQ.md where you can find some of my reasoning behind what I did in this guide.

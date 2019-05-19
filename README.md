@@ -6,4 +6,4 @@ Happy hacking!
 
 ## Table of Conents
 - [Cyber Security Lab Setup](/Cyber%20Security%20Lab/LabSetup.md)
-- [FAQ](/Cyber%20Security%20Lab/LabFAQ.md)
+  - [FAQ](/Cyber%20Security%20Lab/LabFAQ.md)

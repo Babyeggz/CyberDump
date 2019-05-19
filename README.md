@@ -21,14 +21,21 @@ This is a collection of information for cyber security students to create their 
 Assuming you are starting with a new computer or at least a fresh install of Windows 10 this how I am currently configuring my computer “out of the box.”
 
 ### Windows Defender Configuration
-Navigate to Windows Defender Security Center . . . 
+Navigate to Windows Defender Security Center.
 
 `Windows Key -> type “Windows Security” and press enter`
 
-I just make sure everything is turned on and I get all the green check marks
+I just make sure everything is turned on and I get all the green check marks.
 
 ![WindowsDefender](/pictures/WindowsDefender.jpg)
 
 Configure the rest of windows defender however you choose.
 
 **WARNING** Do not enable core isolation under under Device Security settings, this will prevent you from using virtual machines!
+
+### User Account Control (UAC) Settings
+Open User Account Control Settings
+`Windows Key -> type “UAC” and press enter`
+Feel free to adjust this setting as you wish but I recommend setting it to “always notify.”
+
+## Virtualization Lab Installation and Setup

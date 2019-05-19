@@ -40,7 +40,21 @@ Open User Account Control Settings
 
 Feel free to adjust this setting as you wish but I recommend setting it to “always notify.”
 
+## JetBrains PyCharm Installation and Configuration
+
 ## Virtualization Lab Installation and Setup
+
+### VMware Workstation Pro
+
+### Windows 10 VM Setup
+
+### Windows 10 VM (Clone) Setup
+
+### Kali 2019 VM Setup
+
+### Ubuntu 18.04.2 VM Setup
+
+## VPN Setup
 
 ## Frequently Asked Questions
 [This](/Cyber%20Security%20Lab/LabFAQ.md) will take you to my LabFAQ.md where you can find some of my reasoning behind what I did in this guide.

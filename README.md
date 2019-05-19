@@ -5,4 +5,4 @@ Happy hacking!
 -Babyeggz
 
 ## Table of Conents
-1. [Cyber Security Lab Setup](/Cyber Security Lab/LabSetup.md)
+1. [Cyber Security Lab Setup](/Cyber%20Security%20Lab/LabSetup.md)

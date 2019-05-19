@@ -1,8 +1,5 @@
 # silver-giggle Intro
-This is a collection of information for cyber security students to create their own 
-virtualized lab for penetration testing and malware analysis!
-
-
+This is a collection of information for cyber security students to create their own virtualized lab for penetration testing and malware analysis!
 
 ## Setup Overview
 **My machine specs**- 2018 HDR Lenovo ThinkPad X1 Carbon (6th Gen) - Windows 10
@@ -32,3 +29,6 @@ Navigate to Windows Defender Security Center . . .
 I just make sure everything is turned on and I get all the green check marks
 
 ![WindowsDefender](/pictures/WindowsDefender.jpg)
+
+Configure the rest of windows defender however you choose.
+**WARNING** Do not enable core isolation under under Device Security settings, this will prevent you from using virtual machines!

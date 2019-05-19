@@ -29,4 +29,5 @@ Navigate to Windows Defender Security Center . . .
 
 `Windows Key -> type “Windows Security” and press enter`
 
-I just make sure everything is turned on and I get all the green check mark
+I just make sure everything is turned on and I get all the green check marks
+

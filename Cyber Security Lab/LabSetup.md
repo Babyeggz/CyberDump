@@ -40,7 +40,7 @@ Open User Account Control Settings
 
 Feel free to adjust this setting as you wish but I recommend setting it to “always notify.”
 
-## JetBrains PyCharm Installation and Configuration
+## JetBrains PyCharm Installation and Setup
 
 ## Virtualization Lab Installation and Setup
 

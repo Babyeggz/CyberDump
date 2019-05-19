@@ -1,5 +1,5 @@
 # silver-giggle Intro
-Collection of information for cyber security students to create their own 
+This is a collection of information for cyber security students to create their own 
 virtualized lab for penetration testing and malware analysis!
 
 
@@ -31,3 +31,4 @@ Navigate to Windows Defender Security Center . . .
 
 I just make sure everything is turned on and I get all the green check marks
 
+![WindowsDefender](/images/WindowsDefender.jpg)

@@ -23,9 +23,10 @@ Host Machine (Windows 10)
     1. Norton VPN
 
 ## Host Machine Configurations
-    Assuming you are starting with a new computer or at least a fresh install of Windows 10 this how I am currently configuring my computer “out of the box.”
+Assuming you are starting with a new computer or at least a fresh install of Windows 10 this how I am currently configuring my computer “out of the box.”
 
 ### Windows Defender Configuration
 Navigate to Windows Defender Security Center . . . 
 
-`Windows Key -> type “Windows Security” and press enter I just make sure everything is turned on and I get all the green check mark`
+`Windows Key -> type “Windows Security” and press enter 
+I just make sure everything is turned on and I get all the green check mark`

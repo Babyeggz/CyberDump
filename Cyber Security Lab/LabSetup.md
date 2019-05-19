@@ -27,7 +27,7 @@ Navigate to Windows Defender Security Center.
 
 I just make sure everything is turned on and I get all the green check marks.
 
-![WindowsDefender](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/screenshots/WindowsDefender.jpg)
+![WindowsDefender](/Cyber%20Security%20Lab/screenshots/WindowsDefender.jpg)
 
 Configure the rest of windows defender however you choose.
 

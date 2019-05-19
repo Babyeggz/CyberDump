@@ -1,5 +1,5 @@
 # silver-giggle Intro
-    This is a collection of information for cyber security students to create their own virtualized lab for penetration testing and malware analysis!
+This is a collection of information for cyber security students to create their own virtualized lab for penetration testing and malware analysis!
 
 ## Setup Overview
 **My machine specs**- 2018 HDR Lenovo ThinkPad X1 Carbon (6th Gen) - Windows 10 Pro - Intel Quad Core i7-8650U, 1TB NVMe-PCIe SSD, 16GB RAM
@@ -18,7 +18,7 @@
         1. Norton VPN
 
 ## Host Machine Configurations
-   Assuming you are starting with a new computer or at least a fresh install of Windows 10 this how I am currently configuring my computer “out of the box.”
+Assuming you are starting with a new computer or at least a fresh install of Windows 10 this how I am currently configuring my computer “out of the box.”
 
 ### Windows Defender Configuration
 Navigate to Windows Defender Security Center.

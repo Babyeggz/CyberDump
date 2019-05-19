@@ -35,7 +35,9 @@ Configure the rest of windows defender however you choose.
 
 ### User Account Control (UAC) Settings
 Open User Account Control Settings
+
 `Windows Key -> type “UAC” and press enter`
+
 Feel free to adjust this setting as you wish but I recommend setting it to “always notify.”
 
 ## Virtualization Lab Installation and Setup

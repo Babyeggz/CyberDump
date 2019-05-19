@@ -31,4 +31,4 @@ Navigate to Windows Defender Security Center . . .
 
 I just make sure everything is turned on and I get all the green check marks
 
-![WindowsDefender](/images/WindowsDefender.jpg)
+![WindowsDefender](/pictures/WindowsDefender.jpg)

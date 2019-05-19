@@ -4,7 +4,7 @@ Collection of information for cyber security students to create their own virtua
 
 
 ## Setup Overview
-My machine specs- 2018 HDR Lenovo ThinkPad X1 Carbon (6th Gen) - Windows 10 Pro - Intel Quad Core i7-8650U, 1TB NVMe-PCIe SSD, 16GB RAM
+**My machine specs**- 2018 HDR Lenovo ThinkPad X1 Carbon (6th Gen) - Windows 10 Pro - Intel Quad Core i7-8650U, 1TB NVMe-PCIe SSD, 16GB RAM
 
 Host Machine (Windows 10)
     1. Windows Defender Configurations (on)

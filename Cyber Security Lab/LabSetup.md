@@ -51,10 +51,15 @@ Link to JetBrains PyCharm download: https://www.jetbrains.com/pycharm/download/#
 
 
 ## Virtualization Lab Installation and Setup
+This part of the tutorial is very important and kind of the "meat and potatoes" of this whole thing. This (if done correctly) will hoefully give you a work environment that will keep you responsible and a lot safer when practiving penetration testing techniques and analyzing live malware. The lab provides an ethical and safe place for you to hack virtual machines without the need to ask permission or wonder if it is within the legal bounds while the Malware analysis virtual machine gives you an isolated work environment where you can safely perform static and dynamic analysis on live samples without the fear of spreading. ***Should I add a disclaimer for vm breakout?***
 
 ### VMware Workstation Pro
+Once you have downloaded your VMware Workstation 15 Pro executable you need to run it and go through the installation wizard. It is retty straight forward and towards the end of the install you will need to enter your license key that you either obtained from a purchase from their website or your school software catalog. If you have any issues with the installation of the software you could follow [this person's guide on youtube](https://www.youtube.com/watch?v=OMIpKxZbfws).
+
+**WARNING** VMware Player will not work for the purposes of this lab as it does not offer snapshot functionality
 
 ### Windows 10 VM Setup
+
 
 ### Windows 10 VM (Clone) Setup
 

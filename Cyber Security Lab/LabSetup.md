@@ -7,7 +7,7 @@ This is guide to help you set up your own virtualized lab environment for penetr
     Host Machine (Windows 10)
         - Windows Defender Configurations (on)
         - UAC on “always notify”
-        - JetBrains PyCharm
+        - Python 3 and JetBrains PyCharm
         - VMware Workstation Pro 
             - Windows 10 x64 VM
             - Windows 10 x64 VM (cloned)
@@ -40,7 +40,15 @@ Open User Account Control Settings
 
 Feel free to adjust this setting as you wish but I recommend setting it to “always notify.”
 
-## JetBrains PyCharm Installation and Setup
+## Python 3 and JetBrains PyCharm Installation and Setup
+This is all pretty straight forward, for the purpose of saving time I will assume that you will not have any troubles with this part of the guide if you have installed things before. Here is a video computer science teacher that made a video for his students in his class covering this. It's only about 10 minutes long so dont worry. (I may come back and do a step by step myself for the guide)
+
+Link to Mr. Gerry Jenkin's walkthough: https://www.youtube.com/watch?v=puBXxzcWJIQ
+
+Link to Python 3 download: https://www.python.org/downloads/
+
+Link to JetBrains PyCharm download: https://www.jetbrains.com/pycharm/download/#section=windows
+
 
 ## Virtualization Lab Installation and Setup
 

@@ -31,7 +31,7 @@ I just make sure everything is turned on and I get all the green check marks.
 
 Configure the rest of windows defender however you choose.
 
-**WARNING** Do not enable core isolation under under Device Security settings, this will prevent you from using virtual machines!
+***WARNING*** Do not enable core isolation under under Device Security settings, this will prevent you from using virtual machines!
 
 ### User Account Control (UAC) Settings
 Open User Account Control Settings
@@ -56,7 +56,7 @@ This part of the tutorial is very important and kind of the "meat and potatoes" 
 ### VMware Workstation Pro
 Once you have downloaded your VMware Workstation 15 Pro executable you need to run it and go through the installation wizard. It is retty straight forward and towards the end of the install you will need to enter your license key that you either obtained from a purchase from their website or your school software catalog. If you have any issues with the installation of the software you could follow [this person's guide on youtube](https://www.youtube.com/watch?v=OMIpKxZbfws).
 
-**WARNING** VMware Player will not work for the purposes of this lab as it does not offer snapshot functionality
+***WARNING*** VMware Player will not work for the purposes of this lab as it does not offer snapshot functionality
 
 ### Windows 10 VM Setup
 

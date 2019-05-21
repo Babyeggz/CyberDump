@@ -21,6 +21,8 @@ This is guide to help you set up your own virtualized lab environment for penetr
 Assuming you are starting with a new computer or at least a fresh install of Windows 10 this how I am currently configuring my computer “out of the box.”
 
 ### Windows Defender Configuration
+[Why use Windows Defender? FAQ](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabFAQ.md#q-why-windows-defender)
+
 Navigate to Windows Defender Security Center.
 
 `Windows Key -> type “Windows Security” and press enter`
@@ -38,7 +40,7 @@ Open User Account Control Settings
 
 `Windows Key -> type “UAC” and press enter`
 
-Feel free to adjust this setting as you wish but I recommend setting it to “always notify.”
+Feel free to adjust this setting as you wish but I recommend setting it to “always notify.” [Why put UAC on "always notify? FAQ](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabFAQ.md#q-why-set-user-account-control-uac-to-highest-setting)
 
 ## Python 3 and JetBrains PyCharm Installation and Setup
 This is all pretty straight forward, for the purpose of saving time I will assume that you will not have any troubles with this part of the guide if you have installed things before. Here is a video computer science teacher that made a video for his students in his class covering this. It's only about 10 minutes long so dont worry. (I may come back and do a step by step myself for the guide)
@@ -57,6 +59,8 @@ This part of the tutorial is very important and kind of the "meat and potatoes" 
 Once you have downloaded your VMware Workstation 15 Pro executable you need to run it and go through the installation wizard. It is retty straight forward and towards the end of the install you will need to enter your license key that you either obtained from a purchase from their website or your school software catalog. If you have any issues with the installation of the software you could follow [this person's guide on youtube](https://www.youtube.com/watch?v=OMIpKxZbfws).
 
 ***WARNING*** VMware Player will not work for the purposes of this lab as it does not offer snapshot functionality
+
+[Why use Workstation Pro and not Virtualbox? FAQ](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabFAQ.md#q-why-are-you-using-vmware-workstation-pro-and-not-virtualbox)
 
 ### Windows 10 VM Setup
 

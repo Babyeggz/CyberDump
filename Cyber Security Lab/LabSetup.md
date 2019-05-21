@@ -111,7 +111,7 @@ For this VM its VERY easy to create because we are cloning the previous windows 
 
 Follow the clone wizard, you shouldn't have any issues.
 
-Click on `Edit virtual machine settings` and select the Network Card that is configured with `Host-Only` and then click remove. This is done to isolate the Malware VM from the other machines.
+Click on `Edit virtual machine settings` and select the network card that is configured with `Host-Only` and then click remove. This is done to isolate the Malware VM from the other machines.
 
 Here is my final cloned vm hardware settings:
 
@@ -136,7 +136,7 @@ Finish the rest of the VM creation wizard. Here is my Kali VM hardware settings:
 
 <img src="https://i.gyazo.com/cb135da059c8387ab30c15afbe0589f6.png" width="500">
 
-**WARNING** Be sure to only have 1 network card and set it to host only so you dont hack out of bounds.
+**WARNING** Be sure to only have 1 network card and set it to `Host-Only` so you dont hack out of bounds.
 
 ## VPN Setup
 go to https://www.privateinternetaccess.com/pages/buy-vpn/ to purchase a PIA service subscription. I reccomend the 2 year plan because it greatly reduces the cost and really makes this provider shine over other providers.

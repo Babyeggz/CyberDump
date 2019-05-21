@@ -116,8 +116,23 @@ After you run the installer your are then met with this page:
 
 <img src="https://i.gyazo.com/9323c4628fd1c83fedf5aaf1a45ad486.png" width="500">
 
+If this window disappears check your system tray in the bottom left hand corner of your screen to pull it back up.
+
 You may wish to go through the tour or not, either way you end up at the login page. Go ahead and log into the PIA application with your provided username and the new password that you created.
 
-Click on the 3 dots at the top of the 
+Click on the 3 dots at the top of the window.
+
+<img src="https://i.gyazo.com/bedb7bc6fd2d2ab11f72335516b80f8d.png" width="500">
+
+Click `Settings` and check mark `Launch System on Startup` and `Connect on Launch`. This will ensure that your default configuration is to always use the VPN unles specifically disabled.
+
+Select `Privacy` and here you can set the VPN killswitch mode to be whatever you choose. Hover over the `i` icon to the right to get an explanation of the options. You can also enable or disable PIA's blocker for ads and trackers (I enable this option).
+
+Select `Connection` and configure this as you wish. Consult the [documentation on their website](https://www.privateinternetaccess.com/pages/vpn-encryption) to understand what these settings mean. Here is what my configuration looks like for me since I frequently travel and connect to public wifi more often than my home internet:
+
+<img src="https://i.gyazo.com/af6d2acbb18c55a7cb6f3afb7a901cee.png" width="500">
+
+Finally press the big green button to connect!
+
 ## Frequently Asked Questions
 [This](/Cyber%20Security%20Lab/LabFAQ.md) will take you to my LabFAQ.md where you can find some of my reasoning behind what I did in this guide.

@@ -107,13 +107,8 @@ Here is my final cloned vm hardware settings:
 
 <img src="https://i.gyazo.com/ca1ddd75510aa60b8b9a0542292748df.png" width="500">
 
-Go into the VM and turn off windows defender so that you can actually download malware without having to fight Antivirus deleting it all the time. And then see the programs page for a list of programs that you might want to install/use in the VM for malware analysis.
+Go into the VM and turn off windows defender so that you can actually download malware without having to fight Antivirus deleting it all the time. See the programs page for a list of programs that you might want to install/use in the VM for malware analysis.
 
-+
-
-+
-
-+
 ### Kali 2019 VM Setup
 Download the Kali Linux 64-Bit iso from [here](https://www.kali.org/downloads/) and save it to the location of your choosing.
 
@@ -167,4 +162,4 @@ Select `Connection` and configure this as you wish. Consult the [documentation o
 Finally press the big green button to connect!
 
 ## Frequently Asked Questions
-[This](/Cyber%20Security%20Lab/LabFAQ.md) will take you to my LabFAQ.md where you can find some of my reasoning behind what I did in this guide.
+[This link](/Cyber%20Security%20Lab/LabFAQ.md) will take you to my LabFAQ.md where you can find some of my reasoning behind what I did in this guide.

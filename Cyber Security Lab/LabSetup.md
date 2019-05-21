@@ -66,6 +66,34 @@ Once you have downloaded your VMware Workstation 15 Pro executable you need to r
 
 ### Windows 10 VM Setup
 
+Go to https://www.microsoft.com/en-us/software-download/windows10 and click `Download tool now` to download the Windows 10 installation media tool. You will need this to make a Windows 10 ISO file to use for your virtual machine.
+
+Run the Windows installation media tool that you just downloaded and select `Create installation media (USB flash drive, DVD, or ISO file) for another PC` and then click `Next`.
+
+You may change your language on the next screen if you wish but I just leave these set to defaults and click `Next`.
+
+Select `ISO file` and then click `Next` and choose a location on your computer for your ISO to be saved to. and click `Finish`.
+
+Open VMware Workstation Pro if you havent already and from the home page click on `Create a New Virtual Machine`.
+
+Select `Typical (recommended)` and click `Next`.
+
+Select `Installer disc image file (iso):`, supply the path to where you saved the ISO you created earlier, and then click `Next`
+
+Now you can name your VM whatever you would like, just make sure to give your VM a unique name because you may want to add more "Windows 10 VM" to your lab. When you are done click `Next`.
+
+You can change your hard disk size on this page if you want, I leave mine at 60 GB which is my default. Select `Store virtual disk as a single file` and click `Next`.
+
+Click on `Customize Hardware...`->`Add...`-> select `Network Adapter` and click `Finish`
+
+Select `Network Adapter` -> select `Host-only: A private network shared only with the host`.
+
+After that, you may configure your hardware settings however you may choose. Here is how mine is set up if you want to do the same.
+
+<img src="https://i.gyazo.com/e88de309243f69a6f4e6cbfbf0baf28d.png" width="500">
+
+If you are happy with your hardware settings then you can click `Close` and then click `Finish` to create the VM.
+
 
 ### Windows 10 VM (Clone) Setup
 

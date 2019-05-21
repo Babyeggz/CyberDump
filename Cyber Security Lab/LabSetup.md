@@ -4,18 +4,17 @@ This is guide to help you set up your own virtualized lab environment for penetr
 ## Setup Overview
 **My machine specs**- 2018 HDR Lenovo ThinkPad X1 Carbon (6th Gen) - Windows 10 Pro - Intel Quad Core i7-8650U, 1TB NVMe-PCIe SSD, 16GB RAM
 
-    Host Machine (Windows 10)
-        - Windows Defender Configurations (on)
-        - UAC on “always notify”
-        - Python 3 and JetBrains PyCharm
-        - VMware Workstation Pro 
-            - Windows 10 x64 VM
-            - Windows 10 x64 VM (cloned)
-                - Windows Defender Configurations (off)
-                - Installed Malware Analysis Tools
-            - Kali 2019 x64 VM
-            - Ubuntu 18.04.2 x64VM
-        - Norton VPN
+   - Host Machine (Windows 10)
+       - Windows Defender Configurations (on)
+       - UAC on “always notify”
+       - Python 3 and JetBrains PyCharm
+       - VMware Workstation Pro 
+           - Windows 10 x64 VM
+           - Windows 10 x64 VM (cloned)
+               - Windows Defender Configurations (off)
+               - Installed Malware Analysis Tools
+           - Kali 2019 x64 VM
+       - Private Internet Access VPN
 
 ## Host Machine Configurations
 Assuming you are starting with a new computer or at least a fresh install of Windows 10 this how I am currently configuring my computer “out of the box.”
@@ -78,7 +77,7 @@ Open VMware Workstation Pro if you havent already and from the home page click o
 
 Select `Typical (recommended)` and click `Next`.
 
-Select `Installer disc image file (iso):`, supply the path to where you saved the ISO you created earlier, and then click `Next`
+Select `Installer disc image file (iso):`, supply the path to where you saved the ISO you created earlier, and then click `Next`.
 
 Now you can name your VM whatever you would like, just make sure to give your VM a unique name because you may want to add more "Windows 10 VM" to your lab. When you are done click `Next`.
 
@@ -94,12 +93,45 @@ After that, you may configure your hardware settings however you may choose. Her
 
 If you are happy with your hardware settings then you can click `Close` and then click `Finish` to create the VM.
 
+Once the vm boots up and finishes proceed through the normal windows installation process. Once you are finished you need to take a snapshot of your VM so you have a clean version to revert back to iwhen you destroy the vm later on. Click on `VM` in the toolbar at the top and then `Snapshot` -> `Take Snapshot` call it what you like and then click `Take Snapshot` to finalize it.
 
 ### Windows 10 VM (Clone) Setup
 
-### Kali 2019 VM Setup
+For this VM its VERY easy to create because we are cloning the previous windows 10 machine. To do this click on `VM`->`Manage`->`Clone`
 
-### Ubuntu 18.04.2 VM Setup
+Follow the clone wizard, you shouldn't have any issues.
+
+Click on `Edit virtual machine settings` and select the Network Card that is configured with `Host-Only` and then click remove. This is done to isolate the Malware VM from the other machines.
+
+Here is my final cloned vm hardware settings:
+
+<img src="https://i.gyazo.com/ca1ddd75510aa60b8b9a0542292748df.png" width="500">
+
+Go into the VM and turn off windows defender so that you can actually download malware without having to fight Antivirus deleting it all the time. And then see the programs page for a list of programs that you might want to install/use in the VM for malware analysis.
+
++
+
++
+
++
+### Kali 2019 VM Setup
+Download the Kali Linux 64-Bit iso from [here](https://www.kali.org/downloads/) and save it to the location of your choosing.
+
+From the home page click on `Create a New Virtual Machine`.
+
+Select `Typical (recommended)` and click `Next`.
+
+Select `Installer disc image file (iso):`, supply the path to where you saved the ISO you downloaded, and then click `Next`.
+
+Name your VM and click `Next`.
+
+I leave my disk size set to default and then click `Next`.
+
+Finish the rest of the VM creation wizard. Here is my Kali VM hardware settings:
+
+<img src="https://i.gyazo.com/cb135da059c8387ab30c15afbe0589f6.png" width="500">
+
+**WARNING** Be sure to only have 1 network card and set it to host only so you dont hack out of bounds.
 
 ## VPN Setup
 go to https://www.privateinternetaccess.com/pages/buy-vpn/ to purchase a PIA service subscription. I reccomend the 2 year plan because it greatly reduces the cost and really makes this provider shine over other providers.
@@ -122,7 +154,7 @@ You may wish to go through the tour or not, either way you end up at the login p
 
 Click on the 3 dots at the top of the window.
 
-<img src="https://i.gyazo.com/bedb7bc6fd2d2ab11f72335516b80f8d.png" width="500">
+<img src="https://i.gyazo.com/bedb7bc6fd2d2ab11f72335516b80f8d.png" width="200">
 
 Click `Settings` and check mark `Launch System on Startup` and `Connect on Launch`. This will ensure that your default configuration is to always use the VPN unles specifically disabled.
 

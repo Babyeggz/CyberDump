@@ -40,7 +40,9 @@ Open User Account Control Settings
 
 `Windows Key -> type “UAC” and press enter`
 
-Feel free to adjust this setting as you wish but I recommend setting it to “always notify.” [Why put UAC on "always notify? FAQ](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabFAQ.md#q-why-set-user-account-control-uac-to-highest-setting)
+Feel free to adjust this setting as you wish but I recommend setting it to “always notify.” 
+
+[Why put UAC on "always notify? FAQ](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabFAQ.md#q-why-set-user-account-control-uac-to-highest-setting)
 
 ## Python 3 and JetBrains PyCharm Installation and Setup
 This is all pretty straight forward, for the purpose of saving time I will assume that you will not have any troubles with this part of the guide if you have installed things before. Here is a video computer science teacher that made a video for his students in his class covering this. It's only about 10 minutes long so dont worry. (I may come back and do a step by step myself for the guide)

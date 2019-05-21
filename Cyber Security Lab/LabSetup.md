@@ -102,6 +102,22 @@ If you are happy with your hardware settings then you can click `Close` and then
 ### Ubuntu 18.04.2 VM Setup
 
 ## VPN Setup
+go to https://www.privateinternetaccess.com/pages/buy-vpn/ to purchase a PIA service subscription. I reccomend the 2 year plan because it greatly reduces the cost and really makes this provider shine over other providers.
 
+After you enter payment information and a valid email that you can receive mail at, they will email you some temporary login credentials as well as redirect you to their download page to download the installer.
+
+First go to your email and retrieve your username and password and click the link that they send you to go to their logon page of their website. Login using the username and temporary password that they give you. 
+
+I **HIGHLY** encourage you to change your password here!
+
+After you change your password go ahead and run the installer that you downloaded.
+
+After you run the installer your are then met with this page:
+
+<img src="https://i.gyazo.com/9323c4628fd1c83fedf5aaf1a45ad486.png" width="500">
+
+You may wish to go through the tour or not, either way you end up at the login page. Go ahead and log into the PIA application with your provided username and the new password that you created.
+
+Click on the 3 dots at the top of the 
 ## Frequently Asked Questions
 [This](/Cyber%20Security%20Lab/LabFAQ.md) will take you to my LabFAQ.md where you can find some of my reasoning behind what I did in this guide.

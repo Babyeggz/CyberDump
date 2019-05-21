@@ -4,17 +4,27 @@ This is guide to help you set up your own virtualized lab environment for penetr
 ## Setup Overview
 **My machine specs**- 2018 HDR Lenovo ThinkPad X1 Carbon (6th Gen) - Windows 10 Pro - Intel Quad Core i7-8650U, 1TB NVMe-PCIe SSD, 16GB RAM
 
-   Host Machine (Windows 10)
-       2. [Windows Defender Configurations (on)](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#windows-defender-configuration)
-       3. [UAC on “always notify”](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#user-account-control-uac-settings)
-       4. [Python 3 and JetBrains PyCharm](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#python-3-and-jetbrains-pycharm-installation-and-setup)
-       5. [VMware Workstation Pro](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#virtualization-lab-installation-and-setup)
-           5a. [Windows 10 x64 VM](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#windows-10-vm-setup
-           5b. [Windows 10 x64 VM (cloned)](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#windows-10-vm-clone-setup)
-               - Windows Defender Configurations (off)
-               - Installed Malware Analysis Tools
-           5c. [Kali 2019 x64 VM](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#kali-2019-vm-setup)
-       6. [Private Internet Access VPN](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#vpn-setup)
+Host Machine (Windows 10)
+       
+   1. [Windows Defender Configurations (on)](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#windows-defender-configuration)
+       
+   2. [UAC on “always notify”](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#user-account-control-uac-settings)
+       
+   3. [Python 3 and JetBrains PyCharm](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#python-3-and-jetbrains-pycharm-installation-and-setup)
+       
+   4. [VMware Workstation Pro](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#virtualization-lab-installation-and-setup)
+
+      4a. [Windows 10 x64 VM](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#windows-10-vm-setup)
+
+      4b. [Windows 10 x64 VM (cloned)](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#windows-10-vm-clone-setup)
+
+         - Windows Defender Configurations (off)
+         
+         - Installed Malware Analysis Tools
+
+      4c. [Kali 2019 x64 VM](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#kali-2019-vm-setup)
+
+   5. [Private Internet Access VPN](https://github.com/Babyeggz/CyberDump/blob/master/Cyber%20Security%20Lab/LabSetup.md#vpn-setup)
 
 ## Host Machine Configurations
 Assuming you are starting with a new computer or at least a fresh install of Windows 10 this how I am currently configuring my computer “out of the box.”

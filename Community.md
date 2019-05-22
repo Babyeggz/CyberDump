@@ -1,4 +1,4 @@
-# Be A Part of the Community!
+# Be a part of the community!
 
 ## Who to follow?
 - @lennyzeltser

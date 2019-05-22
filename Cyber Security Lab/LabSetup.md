@@ -1,5 +1,5 @@
 # Lab Setup Intro
-This is guide to help you set up your own virtualized lab environment for penetration testing and malware analysis!
+This is guide to help you set up your own virtualized lab environment for penetration testing and malware analysis! How do you use the lab responsibly after setp? Only the windows 10 machines have a network card with access to the internet, only enable it when you need to access the internet. Otherwise, disable the network card with connection to the internet as to prevent malware from escaping or accidental breakout.
 
 ## Setup Overview
 **My machine specs**- 2018 HDR Lenovo ThinkPad X1 Carbon (6th Gen) - Windows 10 Pro - Intel Quad Core i7-8650U, 1TB NVMe-PCIe SSD, 16GB RAM

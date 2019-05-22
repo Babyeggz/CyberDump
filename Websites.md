@@ -1,5 +1,5 @@
-# Teach Yourself
-  The purpose of this page is to provide you with resources for self teaching and expanding your resources for success!
+# Websites
+  The purpose of this page is to provide you with web resources for self teaching and expanding your resources for success!
   
 ## Malware
 

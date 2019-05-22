@@ -3,5 +3,5 @@
   
 ## Malware
 
-Literally anything on SANS written by Lenny Zeltzer. This guy is an absolute god amongst men![link](https://digital-forensics.sans.org/blog/2010/11/12/get-started-with-malware-analysis#)
+Literally anything on SANS written by Lenny Zeltzer. This guy is an absolute god amongst men! [link](https://digital-forensics.sans.org/blog/2010/11/12/get-started-with-malware-analysis#)
 

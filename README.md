@@ -10,9 +10,17 @@ Happy hacking!
 - [Websites](/Websites.md)
   - [Reverse Engineering](https://github.com/Babyeggz/CyberDump/blob/master/Websites.md#reverse-engineering)
   - [Malware](https://github.com/Babyeggz/CyberDump/blob/master/Websites.md#malware)
+  - Red Team
+  - Blue Team
+  - Miscelaneous
 - [Books](/Books.md)
   - [Leadership](https://github.com/Babyeggz/CyberDump/blob/master/Books.md#leadership)
   - [Malware](https://github.com/Babyeggz/CyberDump/blob/master/Books.md#malware)
+  - Red Team
+  - Blue Team
+  - Miscelaneous
 - [Community](/Community.md)
   - [Who to follow?](https://github.com/Babyeggz/CyberDump/blob/master/Community.md#who-to-follow)
   - [Forums and discussions](https://github.com/Babyeggz/CyberDump/blob/master/Community.md#who-to-follow)
+  - Conferences
+  - Competitions

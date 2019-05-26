@@ -7,3 +7,5 @@
 - [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/ref=sr_1_3?keywords=Practical+Malware+Analysis&qid=1558492212&s=books&sr=1-3)
 - [The IDA Pro Book](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898/ref=sr_1_2?keywords=The+Ida+pro+book&qid=1558492303&s=books&sr=1-2)
 
+## Red Teaming
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)

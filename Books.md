@@ -9,3 +9,5 @@
 
 ## Red Teaming
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+- [Rtfm: Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)
+- [The Web Application Hacker's Handbook (Second Edition)](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)

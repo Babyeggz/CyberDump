@@ -1,6 +1,10 @@
 # Books
 
 ## Leadership
+This book isn't tech/security related but it is by far the best leadership book I have ever read, no contest. A true "must read."
+- [Character Carved in Stone: The 12 Core Virtues of West Point That Build Leaders and Produce Success](https://www.amazon.com/Character-Carved-Stone-Virtues-Leaders/dp/0800728831)
+
+Tech/Security
 - [Wolves, Sheep, and Sheepdogs](https://www.amazon.com/Wolves-Sheep-Sheepdogs-Information-Security/dp/1945255269/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1558492443&sr=1-1-catcorr)
 
 ## Malware/Reverse Engineering
